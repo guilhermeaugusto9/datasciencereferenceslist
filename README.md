@@ -10,7 +10,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 #### Data Science
 
 
-        Data Analysis
+ #### Data Analysis
         
 * [Pandas Documentation](https://pandas.pydata.org/docs/index.html)
 
@@ -26,3 +26,4 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [28 comandos úteis de Pandas que talvez você não conheça](https://paulovasconcellos.com.br/28-comandos-%C3%BAteis-de-pandas-que-talvez-voc%C3%AA-n%C3%A3o-conhe%C3%A7a-6ab64beefa93)
 
+* [The Pandas DataFrame: Make Working With Data Delightful](https://realpython.com/pandas-dataframe/)
