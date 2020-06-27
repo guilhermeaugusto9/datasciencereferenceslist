@@ -14,6 +14,10 @@ List of links about Data Science, containing codes, concepts repositories, cours
         
 * [Pandas Documentation](https://pandas.pydata.org/docs/index.html)
 
+* [A Quick Introduction to the “Pandas” Python Library](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
+
+* [Pydata book](https://github.com/wesm/pydata-book)
+
 * [Pandas Equivalents of various SQL queries](https://towardsdatascience.com/introduction-to-pandas-equivalents-of-various-sql-queries-448fb57dd9b9)
 
 * [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
