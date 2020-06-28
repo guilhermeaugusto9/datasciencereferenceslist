@@ -1,6 +1,6 @@
 # datasciencereferenceslist
 
-<center><img alt = "Data Science" width = "100%" src = "https://www.cetax.com.br/blog/wp-content/uploads/2017/01/data-science.png"></center>
+<center><img alt = "Data Science" width = "50%" src = "https://www.cetax.com.br/blog/wp-content/uploads/2017/01/data-science.png"></center>
 
 
 
