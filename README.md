@@ -33,7 +33,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Como Tratar Dados Ausentes com Pandas](https://sigmoidal.ai/como-tratar-dados-ausentes-com-pandas/)
 
-* [Pandas Profiling] (https://github.com/pandas-profiling/pandas-profiling)
+* [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
 
 
 ##### Data Visualization
