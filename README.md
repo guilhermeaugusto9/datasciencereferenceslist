@@ -31,6 +31,8 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [The Pandas DataFrame: Make Working With Data Delightful](https://realpython.com/pandas-dataframe/)
 
+*[Como Tratar Dados Ausentes com Pandas](https://sigmoidal.ai/como-tratar-dados-ausentes-com-pandas/)
+
 
 ##### Data Visualization
 
