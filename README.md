@@ -43,7 +43,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [10 matplotlib Tricks to Master Data Visualization in Python](https://www.analyticsvidhya.com/blog/2020/05/10-matplotlib-tricks-data-visualization-python/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=23_june_intermediate_article)
 
-
+* [FOLIUM Uma simples biblioteca para criação de mapas para Python](https://medium.com/@datalivre/folium-d6036a9ad29c)
 
 
 
