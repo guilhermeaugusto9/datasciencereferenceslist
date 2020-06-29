@@ -37,7 +37,10 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Join in Pandas: Merge data frames (inner, outer, right, left join) in pandas python](http://www.datasciencemadesimple.com/join-merge-data-frames-pandas-python/)
 
+
 ##### Data Visualization
+
+* [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
 
 * [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 
