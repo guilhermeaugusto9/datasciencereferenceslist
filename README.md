@@ -35,6 +35,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling)
 
+* [Join in Pandas: Merge data frames (inner, outer, right, left join) in pandas python](http://www.datasciencemadesimple.com/join-merge-data-frames-pandas-python/)
 
 ##### Data Visualization
 
