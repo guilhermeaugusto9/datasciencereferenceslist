@@ -48,7 +48,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [FOLIUM Uma simples biblioteca para criação de mapas para Python](https://medium.com/@datalivre/folium-d6036a9ad29c)
 
-
+* [A Complete Guide to Scatter Plots](https://chartio.com/learn/charts/what-is-a-scatter-plot/)
 
 
 
