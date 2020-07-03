@@ -42,6 +42,8 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Python Plotting With Matplotlib (Guide)](https://realpython.com/python-matplotlib-guide/)
 
+* [Chartio Graph tutorials](https://chartio.com/learn/charts/)
+
 * [Top 50 matplotlib Visualizations – The Master Plots (with full python code)](https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/)
 
 * [10 matplotlib Tricks to Master Data Visualization in Python](https://www.analyticsvidhya.com/blog/2020/05/10-matplotlib-tricks-data-visualization-python/?utm_source=AVLinkedin&utm_medium=post&utm_campaign=23_june_intermediate_article)
