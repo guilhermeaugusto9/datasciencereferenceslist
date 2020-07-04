@@ -52,5 +52,5 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [A Complete Guide to Scatter Plots](https://chartio.com/learn/charts/what-is-a-scatter-plot/)
 
-
+* [Como Criar um Gráfico de Waffle no Python](https://sigmoidal.ai/como-criar-um-grafico-de-waffle-no-python/)
 
