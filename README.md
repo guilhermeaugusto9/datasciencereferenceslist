@@ -54,3 +54,5 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Como Criar um Gráfico de Waffle no Python](https://sigmoidal.ai/como-criar-um-grafico-de-waffle-no-python/)
 
+* [Como criar uma WordCloud em Python](https://sigmoidal.ai/como-criar-uma-wordcloud-em-python/)
+
