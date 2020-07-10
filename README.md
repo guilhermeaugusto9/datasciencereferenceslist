@@ -11,6 +11,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 [Gerar chave ssh linux](https://help.github.com/pt/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 
+[Instalação Arch Linux](https://github.com/MatMoul/archfi)
 
 #### Data Science
 
