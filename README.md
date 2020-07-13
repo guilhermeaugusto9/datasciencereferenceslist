@@ -59,3 +59,9 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Como criar uma WordCloud em Python](https://sigmoidal.ai/como-criar-uma-wordcloud-em-python/)
 
+
+
+
+##### Machine Learning
+
+
