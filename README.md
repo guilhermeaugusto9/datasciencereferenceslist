@@ -64,4 +64,4 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 ##### Machine Learning
 
-
+* [Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
