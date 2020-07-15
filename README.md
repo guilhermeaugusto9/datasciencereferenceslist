@@ -67,3 +67,5 @@ List of links about Data Science, containing codes, concepts repositories, cours
 * [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 * [Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
+
+* [Como lidar com dados desbalanceados?](https://sigmoidal.ai/como-lidar-com-dados-desbalanceados/)
