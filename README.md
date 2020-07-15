@@ -69,3 +69,19 @@ List of links about Data Science, containing codes, concepts repositories, cours
 * [Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
 
 * [Como lidar com dados desbalanceados?](https://sigmoidal.ai/como-lidar-com-dados-desbalanceados/)
+
+* [Tutorial: Understanding Regression Error Metrics in Python](https://www.dataquest.io/blog/understanding-regression-error-metrics/)
+
+* [Art of Choosing Metrics in Supervised Models Part 1](https://towardsdatascience.com/art-of-choosing-metrics-in-supervised-models-part-1-f960ae46902e)
+
+* [Metrics and scoring: quantifying the quality of predictions](https://scikit-learn.org/stable/modules/model_evaluation.html#regression-metrics)
+
+* [Mean Absolute Error versus Root Mean Squared Error](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
+
+
+
+
+
+
+
+
