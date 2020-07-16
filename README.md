@@ -78,7 +78,9 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Mean Absolute Error versus Root Mean Squared Error](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
 
+* [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
 
+* [Simple Linear Regression Models](https://towardsdatascience.com/data-science-simplified-simple-linear-regression-models-3a97811a6a3d)
 
 
 
