@@ -65,7 +65,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 ##### Machine Learning
 
 * [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
-
+Linear Regression vs Logistic Regression
 * [Introducing Scikit-Learn](https://jakevdp.github.io/PythonDataScienceHandbook/05.02-introducing-scikit-learn.html)
 
 * [Como lidar com dados desbalanceados?](https://sigmoidal.ai/como-lidar-com-dados-desbalanceados/)
@@ -80,10 +80,14 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 * [Regressão linear simples](https://medium.com/ensina-ai/regress%C3%A3o-linear-simples-4cac67c4488c)
 
+* [Understanding Confusion Matrix](https://towardsdatascience.com/understanding-confusion-matrix-a9ad42dcfd62)
+
+* [Optimising a Machine Learning Model with the Confusion Matrix](https://towardsdatascience.com/understanding-the-confusion-matrix-and-its-business-applications-c4e8aaf37f42)
+
 * [Simple Linear Regression Models](https://towardsdatascience.com/data-science-simplified-simple-linear-regression-models-3a97811a6a3d)
 
+* [Introduction to Logistic Regression](https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148)
 
-
-
+* [Linear Regression vs Logistic Regression](https://www.javatpoint.com/linear-regression-vs-logistic-regression-in-machine-learning)
 
 
