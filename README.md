@@ -62,7 +62,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 
 
-##### Machine Learning
+##### Basics Machine Learning
 
 * [Machine Learning Crash Course - Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 Linear Regression vs Logistic Regression
@@ -95,3 +95,12 @@ Linear Regression vs Logistic Regression
 * [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
 
 * [A demo of K-Means clustering on the handwritten digits data](https://scikit-learn.org/stable/auto_examples/cluster/plot_kmeans_digits.html#sphx-glr-auto-examples-cluster-plot-kmeans-digits-py)
+
+#### Advanced Machine Learning
+
+* [What Is Feature Engineering for Machine Learning?](https://medium.com/mindorks/what-is-feature-engineering-for-machine-learning-d8ba3158d97a)
+
+* [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
+
+* [Discover Feature Engineering, How to Engineer Features and How to Get Good at It](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/)
+
