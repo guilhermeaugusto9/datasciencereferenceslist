@@ -112,6 +112,9 @@ Linear Regression vs Logistic Regression
 
 * [Categorical encoding using Label-Encoding and One-Hot-Encoder](https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd)
 
+* [Cross Validation — Why & How](https://towardsdatascience.com/cross-validation-430d9a5fee22)
+
+
 
 
 
