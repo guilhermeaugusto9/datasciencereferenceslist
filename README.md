@@ -124,7 +124,9 @@ Linear Regression vs Logistic Regression
 
 * [Model selection: choosing estimators and their parameters](Model selection: choosing estimators and their parameters)
 
+* [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 
+* [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
 
 
 
