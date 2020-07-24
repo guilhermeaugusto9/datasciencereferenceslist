@@ -128,17 +128,6 @@ Linear Regression vs Logistic Regression
 
 * [XGBoost Documentation](https://xgboost.readthedocs.io/en/latest/)
 
+* [Método de Ensemble: vantagens da combinação de diferentes estimadores](https://sigmoidal.ai/metodo-de-ensemble-vantagens-da-combinacao-de-diferentes-estimadores/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+* [A Comprehensive Guide to Ensemble Learning](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/#)
