@@ -114,7 +114,15 @@ Linear Regression vs Logistic Regression
 
 * [Cross Validation — Why & How](https://towardsdatascience.com/cross-validation-430d9a5fee22)
 
+* [Logistic Regression Model Tuning with scikit-learn — Part 1](https://towardsdatascience.com/logistic-regression-model-tuning-with-scikit-learn-part-1-425142e01af5)
 
+* [Tune Hyperparameters for Classification Machine Learning Algorithms](https://machinelearningmastery.com/hyperparameters-for-classification-machine-learning-algorithms/)
+
+* [Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html)
+
+* [Parameter estimation using grid search with cross-validation](Parameter estimation using grid search with cross-validation)
+
+* [Model selection: choosing estimators and their parameters](Model selection: choosing estimators and their parameters)
 
 
 
