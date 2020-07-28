@@ -120,9 +120,9 @@ Linear Regression vs Logistic Regression
 
 * [Tuning the hyper-parameters of an estimator](https://scikit-learn.org/stable/modules/grid_search.html)
 
-* [Parameter estimation using grid search with cross-validation](Parameter estimation using grid search with cross-validation)
+* [Parameter estimation using grid search with cross-validation](http://scikit-learn.org/stable/auto_examples/model_selection/plot_grid_search_digits.html)
 
-* [Model selection: choosing estimators and their parameters](Model selection: choosing estimators and their parameters)
+* [Model selection: choosing estimators and their parameters](http://scikit-learn.org/stable/tutorial/statistical_inference/model_selection.html)
 
 * [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 
