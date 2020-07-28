@@ -131,3 +131,12 @@ Linear Regression vs Logistic Regression
 * [Método de Ensemble: vantagens da combinação de diferentes estimadores](https://sigmoidal.ai/metodo-de-ensemble-vantagens-da-combinacao-de-diferentes-estimadores/)
 
 * [A Comprehensive Guide to Ensemble Learning](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/#)
+
+
+#### Pratical Machine Learning
+
+* [Introduction to Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
+
+* [The ML Mindset](https://developers.google.com/machine-learning/problem-framing/big-questions)
+
+* [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
