@@ -140,3 +140,5 @@ Linear Regression vs Logistic Regression
 * [The ML Mindset](https://developers.google.com/machine-learning/problem-framing/big-questions)
 
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
+
+* [Guideline Google](https://developers.google.com/machine-learning/guides/text-classification)
