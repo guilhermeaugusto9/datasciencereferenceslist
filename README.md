@@ -142,3 +142,5 @@ Linear Regression vs Logistic Regression
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 * [Guideline Google](https://developers.google.com/machine-learning/guides/text-classification)
+
+* [How to Choose the Best Machine Learning Model ?](https://medium.com/@mamarih1/how-to-choose-the-best-machine-learning-model-e1dbb46bdd4d)
