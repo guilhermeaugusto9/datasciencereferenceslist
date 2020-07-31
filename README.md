@@ -15,6 +15,7 @@ List of links about Data Science, containing codes, concepts repositories, cours
 
 #### Data Science
 
+  [Data Science  Cheat Sheets](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf)
 
  ##### Data Analysis
         
