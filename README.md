@@ -147,3 +147,5 @@ Linear Regression vs Logistic Regression
 * [How to Choose the Best Machine Learning Model ?](https://medium.com/@mamarih1/how-to-choose-the-best-machine-learning-model-e1dbb46bdd4d)
 
 * [Introduction to Transforming Data](https://developers.google.com/machine-learning/data-prep/transform/introduction)
+
+* [Featuretools - An open source python framework for automated feature engineering](https://www.featuretools.com/)
