@@ -149,3 +149,11 @@ Linear Regression vs Logistic Regression
 * [Introduction to Transforming Data](https://developers.google.com/machine-learning/data-prep/transform/introduction)
 
 * [Featuretools - An open source python framework for automated feature engineering](https://www.featuretools.com/)
+
+#### Deploy of a Machine Learning Application
+
+* [Deployment of Machine learning Models Demystified (Part 1)](https://towardsdatascience.com/deployment-of-machine-learning-model-demystified-part-1-1181d91815d2)
+
+* [How to Deploy a Machine Learning Model](https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf)
+
+
