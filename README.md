@@ -150,6 +150,10 @@ Linear Regression vs Logistic Regression
 
 * [Featuretools - An open source python framework for automated feature engineering](https://www.featuretools.com/)
 
+* [A Deep Dive Into Sklearn Pipelines](https://www.kaggle.com/baghern/a-deep-dive-into-sklearn-pipelines)
+
+* [Using ColumnTransformer to combine data processing steps](https://towardsdatascience.com/using-columntransformer-to-combine-data-processing-steps-af383f7d5260)
+
 #### Deploy of a Machine Learning Application
 
 * [Deployment of Machine learning Models Demystified (Part 1)](https://towardsdatascience.com/deployment-of-machine-learning-model-demystified-part-1-1181d91815d2)
