@@ -162,4 +162,13 @@ Linear Regression vs Logistic Regression
 
 * [How to Deploy a Machine Learning Model](https://towardsdatascience.com/how-to-deploy-a-machine-learning-model-dc51200fe8cf)
 
+* [Download Insomnia Core](https://insomnia.rest/download/core/?&ref=)
+
+* [The Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+
+* [Model persistence](https://scikit-learn.org/stable/modules/model_persistence.html)
+
+
+
+
 
