@@ -168,6 +168,12 @@ Linear Regression vs Logistic Regression
 
 * [Model persistence](https://scikit-learn.org/stable/modules/model_persistence.html)
 
+* [Flask Documentation](https://flask.palletsprojects.com/en/1.1.x/quickstart/)
+
+* [Python Web Applications with Flask – Part I](https://realpython.com/python-web-applications-with-flask-part-i/)
+
+* [Flask by Example – Project Setup](https://realpython.com/flask-by-example-part-1-project-setup/)
+
 
 
 
