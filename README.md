@@ -174,6 +174,12 @@ Linear Regression vs Logistic Regression
 
 * [Flask by Example – Project Setup](https://realpython.com/flask-by-example-part-1-project-setup/)
 
+* [Python Machine Learning Prediction with a Flask REST API](https://www.toptal.com/python/python-machine-learning-flask-example)
+
+* [Usando Insomnia para testar as requisições de nossas APIs](https://hcode.com.br/blog/usando-insomnia-para-testar-as-requisicoes-de-nossas-apis)
+
+
+
 
 
 
