@@ -156,6 +156,8 @@ Linear Regression vs Logistic Regression
 
 #### Deploy of a Machine Learning Application
 
+* [From Jupyter Notebook To Scripts](https://towardsdatascience.com/from-jupyter-notebook-to-sc-582978d3c0c)
+
 * [Deployment of Machine learning Models Demystified (Part 1)](https://towardsdatascience.com/deployment-of-machine-learning-model-demystified-part-1-1181d91815d2)
 
 * [Deployment of Machine learning Model Demystified (Part 2)](https://medium.com/@opeyemibami/deployment-of-machine-learning-models-demystified-part-2-63eadaca1571)
