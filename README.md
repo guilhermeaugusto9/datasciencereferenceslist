@@ -181,6 +181,21 @@ Linear Regression vs Logistic Regression
 * [Usando Insomnia para testar as requisições de nossas APIs](https://hcode.com.br/blog/usando-insomnia-para-testar-as-requisicoes-de-nossas-apis)
 
 
+#### Deep Learning Introduction
+
+* [Redes Neurais - O que são e qual sua importância?](https://www.sas.com/pt_br/insights/analytics/neural-networks.html#:~:text=Redes%20neurais%20s%C3%A3o%20sistemas%20de,tempo%20%E2%80%93%20aprender%20e%20melhorar%20continuamente.)
+
+* [Explained: Neural networks](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414)
+
+* [Neural Network In 5 Minutes ](https://www.youtube.com/watch?v=bfmFfD2RIcg)
+
+
+
+
+
+
+
+
 
 
 
