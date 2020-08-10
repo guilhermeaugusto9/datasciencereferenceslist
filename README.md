@@ -189,10 +189,15 @@ Linear Regression vs Logistic Regression
 
 * [Neural Network In 5 Minutes ](https://www.youtube.com/watch?v=bfmFfD2RIcg)
 
+* [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
 
+* [Demystifying the Mathematics Behind Convolutional Neural Networks](https://www.analyticsvidhya.com/blog/2020/02/mathematics-behind-convolutional-neural-network/)
 
+* [The Math behind Artificial Neural Networks](https://towardsdatascience.com/the-heart-of-artificial-neural-networks-26627e8c03ba)
 
+* [Início rápido do TensorFlow 2 para iniciantes](https://www.tensorflow.org/tutorials/quickstart/beginner)
 
+* [Início rápido do TensorFlow 2 para especialistas](https://www.tensorflow.org/tutorials/quickstart/advanced)
 
 
 
